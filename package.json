@@ -18,5 +18,6 @@
   "homepage": "https://github.com/aeon-life/tea--aeon#readme",
   "dependencies": {
     "signineth-binance": "^1.0.6"
-  }
+  },
+  "devDependencies": {}
 }
